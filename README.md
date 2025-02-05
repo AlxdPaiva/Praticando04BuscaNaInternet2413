@@ -12,7 +12,13 @@ Cada caso de teste possui apenas um número, t (1 ≤ t ≤ 1000), que represent
 Saída
 Para cada caso de teste imprima apenas uma linha, contendo apenas um inteiro, indicando quantas pessoas clicaram no primeiro link, nessa busca.
 
-Exemplos de Entrada	Exemplos de Saída
-2                   8
+Exemplos de Entrada	
+2
 
-25                  100
+25
+
+
+Exemplos de Saída
+8
+
+100
